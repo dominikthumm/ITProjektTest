@@ -6,4 +6,4 @@
  * @author serhatulus
  *
  */
-package de.hdm.client.gui;
+package de.hdm.server.db;
