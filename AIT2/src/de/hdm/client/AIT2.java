@@ -54,7 +54,12 @@ public class AIT2 implements EntryPoint {
 
 		@Override
 		public void onClick(ClickEvent event) {
-			Window.alert("du hast mich gefickt");
+			//Window.alert("du hast mich gefickt");
+			DialogBox db = new DialogBox();
+			db.setText("hast mich angeklickt du Masthuhn");
+			db.setModal(false);
+			db.show();
+			
 		}
 		
 		}
