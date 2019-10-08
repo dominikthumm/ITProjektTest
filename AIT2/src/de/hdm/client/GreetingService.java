@@ -16,7 +16,7 @@ public interface GreetingService extends RemoteService {
 
 	//ejbfkjbev
 
-	//erster kommi
+	//erster kommijwehfjhweiugf
 
 	
 	//jwhnefjnwenfjwefwefw
