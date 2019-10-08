@@ -35,7 +35,7 @@ public class AIT2 implements EntryPoint {
 		VerticalPanel vp = new VerticalPanel();
 		
 		Label l  =new Label("wenn du etwas in die Textbox schreibst und anschlie�end auf KLICK MICH DRUECKST, kannst du dein blaues Wunder erleben !!!!");
-		vp.add(l);
+		vp.add(l);qwf
 		
 		
 		TextBox tb  = new TextBox();
