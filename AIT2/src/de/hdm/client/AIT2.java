@@ -1,5 +1,6 @@
 package de.hdm.client;
 
+import de.hdm.client.gui.EditorPanel;
 import de.hdm.shared.FieldVerifier;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
