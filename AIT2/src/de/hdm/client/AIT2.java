@@ -48,8 +48,10 @@ public class AIT2 implements EntryPoint {
 		RootPanel.get().add(vp);
 		
 	}
+
 	//Kommentar 22233333
 		
+
 		
 	private class ButtonClickHandler implements ClickHandler{
 
