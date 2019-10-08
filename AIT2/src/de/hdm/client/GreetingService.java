@@ -13,7 +13,7 @@ public interface GreetingService extends RemoteService {
 	//test 
 	//test2 ;D
 	
-	
+	//ejbfkjbev
 	
 	//jwhnefjnwenfjwefwefw
 }
