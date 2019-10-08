@@ -20,6 +20,8 @@ import com.google.gwt.user.client.ui.TextBox;
 import com.google.gwt.user.client.ui.VerticalPanel;
 import com.sun.java.swing.plaf.windows.resources.windows;
 
+//HAKKLI COKOKIE
+
 /**
  * Entry point classes define <code>onModuleLoad()</code>.
  */
