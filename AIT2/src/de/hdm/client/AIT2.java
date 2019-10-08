@@ -28,7 +28,9 @@ public class AIT2 implements EntryPoint {
 	@Override
 	public void onModuleLoad() {
 		
+		RootPanel.get().add(new EditorPanel());
 		
+	/*	
 		VerticalPanel vp = new VerticalPanel();
 		
 		Label l  =new Label("wenn du etwas in die Textbox schreibst und anschlie�end auf KLICK MICH DRUECKST, kannst du dein blaues Wunder erleben !!!!");
@@ -63,7 +65,7 @@ public class AIT2 implements EntryPoint {
 			db.setModal(false);
 			db.show();
 			
-		}
+		} */
 		
 		}
 	}
